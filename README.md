@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Dynamic Programming
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3616-make-array-elements-equal-to-zero](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+## Hash Table
+|  |
+| ------- |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 <!---LeetCode Topics End-->
