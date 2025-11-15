@@ -44,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+## String
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Sliding Window
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Enumeration
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
