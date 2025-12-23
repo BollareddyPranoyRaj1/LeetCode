@@ -3,10 +3,8 @@ class Solution:
         diff = 0
         mini = float('inf')
         maxi = 0
-
         for i in range(len(prices)):
-            mini = min(mini, prices[i])
-            diff = prices[i] - mini
-            maxi = max(maxi, diff)
-
+            if mini>prices[i]:
+                mini=prices[i]
+            maxi=max(maxi,prices[i]-mini)
         return maxi
