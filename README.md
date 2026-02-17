@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/0136-single-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/BollareddyPranoyRaj1/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
